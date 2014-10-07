@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'MIT',
                      :file => 'LICENSE' }
   s.author       = { 'Matteo Gobbi' => 'job@matteogobbi.com' }
-  s.source       = { :git => 'https://github.com/matteogobbi/MGSpotyViewController.git',
+  s.source       = { :git => 'https://github.com/rickerbh/MGSpotyViewController.git',
                      :tag => '0.0.1' }
   s.platform     = :ios, '6.0'
   s.source_files = 'MGSpotyViewController/*.{h,m}', 'MGSpotyViewController/ImageEffects/*.{h,m}'
